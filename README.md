@@ -3,7 +3,7 @@
 ## course schedule
 |completed|date|ses #|topics|key dates|
 |:-------:|:--:|:---:|:-----|:--------|
-|||L1|Introduction to Superposition||
+|✅|28 june 2021|L1|Introduction to Superposition||
 |||L2|Experimental Facts of Life||
 |||L3|The Wave Function|Problem Set 1 Due|
 |||L4|Expectations, Momentum, and Uncertainty|
