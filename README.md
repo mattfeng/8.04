@@ -4,8 +4,8 @@
 |completed|date|ses #|topics|key dates|
 |:-------:|:--:|:---:|:-----|:--------|
 |✅|28 june 2021|L1|Introduction to Superposition||
-|||L2|Experimental Facts of Life||
-|||L3|The Wave Function|Problem Set 1 Due|
+|✅|01 july 2021|L2|Experimental Facts of Life||
+|✅|02 july 2021|L3|The Wave Function|Problem Set 1 Due|
 |||L4|Expectations, Momentum, and Uncertainty|
 |||L5|Operators and the Schrödinger Equation|Problem Set 2 Due|
 |||L6|Time Evolution and the Schrödinger Equation|Problem Set 3 Due|
